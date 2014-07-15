@@ -1,0 +1,5 @@
+author: ElliottOlson
+main: me.elliottolson.plugins.survivalgames.SurvivalGames
+name: SurvivalGames
+startup: startup
+version: '1.0'
